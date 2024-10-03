@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Quran Kareem</string>
+    <string name="Home">القرآن</string>
+    <string name="Profile">أنا</string>
+    <string name="Search">إستكشف</string>
+    <string name="app_title">القرآن الكريم</string>
+    <string name="search_lable">إبحث عن كلمة</string>
+    <string name="drawer_about_us">من أنا</string>
+    <string name="drawer_settings">الاعدادات</string>
+    <string name="swich_to_darkmode">الوضع الداكن</string>
+    <string name="settings_title">الاعدادات</string>
+    <string name="explore_title">إستكشف</string>
+    <string name="no_connection_error">لا يوجد اتصال بالانترنت</string>
+    <string name="about_me_paragraph">I\'m a passionate Android developer currently in my third year of studying Computer Science at Mansoura University. With a strong foundation in programming and mobile app development, I enjoy building intuitive, efficient apps and continuously expanding my knowledge in the tech field. I\'m always eager to explore new technologies and tackle challenging projects to grow as a developer.</string>
+</resources>
