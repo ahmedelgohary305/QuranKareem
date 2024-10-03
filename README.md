@@ -1,7 +1,5 @@
 QuranKareem is a comprehensive mobile application designed to facilitate the reading, understanding, and exploration of the Holy Quran. It offers a user-friendly interface, accurate Quran text, and essential features to enhance your spiritual journey.
 
-Applied Tec
-
 Key Features:
 
 Holy Quran Text:
