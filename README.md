@@ -4,7 +4,7 @@ Key Features:
 
 Holy Quran Text:
 High-quality Arabic text with accurate diacritics and tajweed markings.
-Jüz-based navigation for easy reference.
+Juz-based navigation for easy reference.
 Search Functionality:
 Efficiently search for specific verses, words, or topics within the Quran.
 Pillars of Islam:
